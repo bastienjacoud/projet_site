@@ -1,0 +1,684 @@
+#logo
+{
+	width: 8%;
+	margin-left: 0.5em;
+	display: inline-block;
+	
+}
+#entete
+{
+	background-color: #87CEEB;
+	width: 100%;
+	border-radius: 5px;
+
+}
+#Titre
+{
+	position: relative;
+	bottom: 40px;
+	text-align: center;
+	color: black;
+	font-size: 500%;
+	display: inline-block;
+	width: 80%;
+	height: 20%;
+
+	
+}
+#pieddepage
+{
+	
+	bottom: 32px;
+	background-color: white;
+	text-align: center;
+	font-size: 25px;
+	border-style: double;
+	border-color: black;
+	border-radius: 10px;
+}
+li 
+{
+	display: inline;
+	margin-left: 5em;
+}
+#Menu
+{
+	text-align: center;
+	font-size: 175%;
+
+}
+#statistiques
+{
+	bottom:32px;
+	background-color: grey;
+	min-height: 450px;
+	width: 15%;
+	display: inline-block;
+	vertical-align: top;
+	border-style: double;
+	border-color: black;
+	border-radius: 10px;
+}
+#univ
+{
+	margin-right: 6em;
+}
+#lif4
+{
+	margin-right: 6em;
+}
+#Titre_stats1
+{
+	text-align: center;
+	font-size: 25px;
+	font-family: cursive;
+}
+
+#titre_stats2
+{
+	text-align: center;
+	font-size: 20px;
+	font-family: cursive;
+}
+#contenu
+{
+	
+	display: inline-block;
+	width: 80%;
+	background-color: white;
+	bottom: 32px;
+	vertical-align: top;
+	min-height: 450px;
+}
+#image_MCD
+{
+
+	text-align: center;
+	width: 50%;
+}
+#Menu>li>a
+{
+	color: black;
+}
+
+#formulaire_generateur
+{
+	text-align: center;
+	font-size: 20px;
+	margin: auto;
+	font-family: cursive;
+}
+
+#titre_generateur
+{
+	text-align: center;
+	color: black;
+	font-size: 25px;
+	font-family: cursive;
+
+}
+
+#description
+{
+	font-size: 25px;
+	text-align: center;
+	font-family: cursive;
+}
+
+#titre_apropos
+{
+	text-align: center;
+	font-family: cursive;
+}
+
+#nomprenom
+{
+	text-align: center;
+	font-family: cursive;
+}
+
+#explications
+{
+	text-align: center;
+	font-family: cursive;
+}
+
+#remerciements
+{
+	text-align: center;
+	font-family: cursive;
+}
+
+#formulaire_ajout_joueuse_equipe
+{
+	text-align: center;
+	font-size: 20px;
+	margin:auto;
+	font-family: cursive;
+}
+
+#titre_ajout_joueuse_equipe
+{
+	text-align: center;
+	font-size: 25px;
+	font-family: cursive;
+}
+
+#titre_ajout_jeu
+{
+	text-align: center;
+	font-size: 25px;
+	font-family: cursive;
+}
+
+#formulaire_ajout_jeu
+{
+	text-align: center;
+	font-size: 20px;
+	margin:auto;
+	font-family: cursive;
+}
+
+#formulaire1_ajout_joueur
+{
+	text-align: center;
+	font-size: 20px;
+	margin:auto;
+	font-family: cursive;
+}
+
+#formulaire2_ajout_joueur
+{
+	text-align: center;
+	font-size: 20px;
+	margin:auto;
+	font-family: cursive;
+}
+
+#formulaire3_ajout_joueur
+{
+	text-align: center;
+	font-size: 20px;
+	margin:auto;
+	font-family: cursive;
+}
+
+#formulaire4_ajout_joueur
+{
+	text-align: center;
+	font-size: 20px;
+	margin:auto;
+	font-family: cursive;
+}
+
+#titre1_ajout_joueur
+{
+	text-align: center;
+	font-size: 25px;
+	font-family: cursive;
+}
+
+#titre2_ajout_joueur
+{
+	text-align: center;
+	font-size: 25px;
+	font-family: cursive;
+}
+
+#titre3_ajout_joueur
+{
+	text-align: center;
+	font-size: 25px;
+	font-family: cursive;
+}
+
+#titre4_ajout_joueur
+{
+	text-align: center;
+	font-size: 25px;
+	font-family: cursive;
+}
+
+#formulaire5_ajout_joueur
+{
+	text-align: center;
+	font-size: 20px;
+	margin:auto;
+	font-family: cursive;
+}
+
+#formulaire1_ajout_score_equipe
+{
+	text-align: center;
+	font-size: 20px;
+	margin:auto;
+	font-family: cursive;
+}
+
+#formulaire2_ajout_score_equipe
+{
+	text-align: center;
+	font-size: 20px;
+	margin:auto;
+	font-family: cursive;
+}
+
+#formulaire3_ajout_score_equipe
+{
+	text-align: center;
+	font-size: 20px;
+	margin:auto;
+	font-family: cursive;
+}
+
+#formulaire4_ajout_score_equipe
+{
+	text-align: center;
+	font-size: 20px;
+	margin:auto;
+	font-family: cursive;
+}
+
+
+#formulaire5_ajout_score_equipe
+{
+	text-align: center;
+	font-size: 20px;
+	margin:auto;
+	font-family: cursive;
+}
+
+#titre_ajout_score_equipe
+{
+	text-align: center;
+	font-size: 25px;
+	font-family: cursive;
+}
+
+#titre2_ajout_score_equipe
+{
+	text-align: center;
+	font-size: 25px;
+	font-family: cursive;
+}
+
+#titre3_ajout_score_equipe
+{
+	text-align: center;
+	font-size: 25px;
+	font-family: cursive;
+}
+
+#titre1_ajout_score_solo
+{
+	text-align: center;
+	font-size: 25px;
+	font-family: cursive;
+}
+
+#titre2_ajout_score_solo
+{
+	text-align: center;
+	font-size: 25px;
+	font-family: cursive;
+}
+
+#titre3_ajout_score_solo
+{
+	text-align: center;
+	font-size: 25px;
+	font-family: cursive;
+}
+
+#formulaire1_ajout_score_solo
+{
+	text-align: center;
+	font-size: 20px;
+	margin:auto;
+	font-family: cursive;
+}
+
+#formulaire2_ajout_score_solo
+{
+	text-align: center;
+	font-size: 20px;
+	margin:auto;
+	font-family: cursive;
+}
+
+#formulaire3_ajout_score_solo
+{
+	text-align: center;
+	font-size: 20px;
+	margin:auto;
+	font-family: cursive;
+}
+
+#formulaire4_ajout_score_solo
+{
+	text-align: center;
+	font-size: 20px;
+	margin:auto;
+	font-family: cursive;
+}
+
+#formulaire5_ajout_score_solo
+{
+	text-align: center;
+	font-size: 20px;
+	margin:auto;
+	font-family: cursive;
+}
+
+#titre_ajout_equipe
+{
+	text-align: center;
+	font-size: 25px;
+	font-family: cursive;
+}
+
+#formulaire_ajout_equipe
+{
+	text-align: center;
+	font-size: 20px;
+	margin:auto;
+	font-family: cursive;
+}
+
+#titre_ajout_jeu
+{
+	text-align: center;
+	font-size: 25px;
+	font-family: cursive;
+}
+
+#formulaire_ajout_jeu
+{
+	text-align: center;
+	font-size: 20px;
+	margin:auto;
+	font-family: cursive;
+
+}
+
+#res_ajout_equipe
+{
+	text-align: center;
+	font-size: 20px;
+	font-family: cursive;
+	color:red;
+}
+
+#res_ajout_jeu
+{
+	text-align: center;
+	font-size: 20px;
+	font-family: cursive;
+	color:red;
+}
+
+#res_ajout_jeu1
+{
+	text-align: center;
+	font-size: 20px;
+	font-family: cursive;
+	color:red;
+}
+
+
+#res_ajout_jeu2
+{
+	text-align: center;
+	font-size: 20px;
+	font-family: cursive;
+	color:red;
+}
+
+#res_ajout_jeu3
+{
+	text-align: center;
+	font-size: 20px;
+	font-family: cursive;
+	color:red;
+}
+
+#res_ajout_jeu4
+{
+	text-align: center;
+	font-size: 20px;
+	font-family: cursive;
+	color:red;
+}
+
+#res_ajout_jeu5
+{
+	text-align: center;
+	font-size: 20px;
+	font-family: cursive;
+	color:red;
+}
+
+#res_ajout_joueur1
+{
+	text-align: center;
+	font-size: 20px;
+	font-family: cursive;
+	color:red;
+}
+
+#res_ajout_joueur2
+{
+	text-align: center;
+	font-size: 20px;
+	font-family: cursive;
+	color:red;
+}
+
+#res_ajout_joueur_equipe
+{
+	text-align: center;
+	font-size: 20px;
+	font-family: cursive;
+	color:red;
+}
+
+#res_ajout_partie_equipe
+{
+	text-align: center;
+	font-size: 20px;
+	font-family: cursive;
+	color:red;
+}
+
+#res_ajout_partie_solo
+{
+	text-align: center;
+	font-size: 20px;
+	font-family: cursive;
+	color:red;
+}
+
+#historique
+{
+	text-align: center;
+	font-size: 20px;
+	font-family: cursive;
+}
+
+#res_generateur
+{
+	text-align: center;
+	font-size: 20px;
+	font-family: cursive;
+	color:red;
+}
+
+#formulaire_info_joueuses
+{
+	text-align: center;
+	font-size: 20px;
+	margin:auto;
+	font-family: cursive;
+}
+
+
+#titre_info_joueur
+{
+	text-align: center;
+	font-size: 25px;
+	font-family: cursive;
+}
+
+#ST_info_joueur1
+{
+	text-align: center;
+	font-size: 23px;
+	font-family: cursive;
+}
+
+#info_joueur
+{
+	text-align: center;
+	font-size: 20px;
+	font-family: cursive;
+}
+
+#adresse_joueur
+{
+	text-align: center;
+	font-size: 20px;
+	font-family: cursive;
+}
+
+#ST_info_joueur2
+{
+	text-align: center;
+	font-size: 23px;
+	font-family: cursive;
+}
+
+#texte1_info_joueur
+{
+	text-align: center;
+	font-size: 20px;
+	font-family: cursive;
+}
+
+#texte2_info_joueur
+{
+	text-align: center;
+	font-size: 20px;
+	font-family: cursive;
+}
+
+#texte2_info_joueur
+{
+	text-align: center;
+	font-size: 20px;
+	font-family: cursive;
+}
+
+#texte2_info_joueur
+{
+	text-align: center;
+	font-size: 20px;
+	font-family: cursive;
+}
+
+#liste_info_joueur
+{
+	text-align: center;
+	font-size: 20px;
+	font-family: cursive;
+}
+
+#liste_info_joueur2
+{
+	text-align: center;
+	font-size: 20px;
+	font-family: cursive;
+}
+
+#liste_info_joueur3
+{
+	text-align: center;
+	font-size: 20px;
+	font-family: cursive;
+}
+
+#texte3_info_joueur
+{
+	text-align: center;
+	font-size: 20px;
+	font-family: cursive;
+}
+
+#texte4_info_joueur
+{
+	text-align: center;
+	font-size: 20px;
+	font-family: cursive;
+}
+
+#texte5_info_joueur
+{
+	text-align: center;
+	font-size: 20px;
+	font-family: cursive;
+}
+
+#texte6_info_joueur
+{
+	text-align: center;
+	font-size: 20px;
+	font-family: cursive;
+}
+
+#texte7_info_joueur
+{
+	font-size: 18px;
+	font-family: cursive;
+}
+
+#formulaire_stats
+{
+	text-align: center;
+	font-size: 18px;
+	margin:auto;
+	font-family: cursive;
+}
+
+
+#texte_stats1
+{
+	text-align: center;
+	font-size: 15px;
+	font-family: cursive;
+}
+
+#texte_stats2
+{
+	text-align: center;
+	font-size: 15px;
+	font-family: cursive;
+}
+
+#texte_stats3
+{
+	text-align: center;
+	font-size: 15px;
+	font-family: cursive;
+}
+
+#texte_stats4
+{
+	text-align: center;
+	font-size: 15px;
+	font-family: cursive;
+}
+
+#carte_dernier_lieu
+{
+	font-size: 18px;
+	font-family: cursive;
+}
